@@ -20,5 +20,16 @@ $$\text{Recall}$$ | $$\frac{\text{Number of True Positives}}{\text{Number of Act
 $$\text{F1}$$ | $$2\frac{\text{Precision x Recall}}{\text{Precision + Recall}}$$
                                          
 
+# Methodology
+The general research strategy in this project is to use the OSEMN framework on the King County House Sales dataset. The process includes the below steps:
 
+ - Obtain data
+ - Scrub
+ - Explore
+ - Model
+ - iNterpret
+ 
+ # Obtain Data
+ The very first step of the project is to obtain data. We obtain the data from We will look at data from the National 2009 H1N1 Flu Survey collected to monitor vaccination rates during that campaign. Obtaining data starts with importing needed libraries.
+ 
 
