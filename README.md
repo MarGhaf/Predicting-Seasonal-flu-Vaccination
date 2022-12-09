@@ -37,7 +37,7 @@ The general research strategy in this project is to use the OSEMN framework on t
 - Data visualization: Identify significant patterns and trends in our data
 
 The below questions might help better to have insight into our database
-## Qustion 1. What is the relationship between demographic information and receiving vaccine?
+## Question 1. What is the relationship between demographic information and receiving vaccine?
 To answer this question, some demographic information was categorized on the basis of being vaccinated or not. Then the results were plotted.
 
 
