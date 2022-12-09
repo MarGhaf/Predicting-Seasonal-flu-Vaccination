@@ -38,9 +38,12 @@ The general research strategy in this project is to use the OSEMN framework on t
 
 The below questions might help better to have insight into our database
 ## Qustion 1. What is the relationship between demographic information and receiving vaccine?
-
+To answer this question, some demographic information was categorized on the basis of being vaccinated or not. Then the results were plotted.
 
 
  ![image](https://user-images.githubusercontent.com/101681195/206749743-ccd25525-8cdf-4b69-a764-4dff40176de1.png)
 
+## Insight
+
+## Qustion 2.How do doctor's recommendations affect people's opinions of vaccination for different age groups, genders, and races?
 
