@@ -46,4 +46,5 @@ To answer this question, some demographic information was categorized on the bas
 ## Insight
 Examination of the dataset revealed that several traits were predictive of individual vaccination patterns. For example, gender and marital status did not affect individual vaccination patterns, whereas age, race, education and employment status did.
 ## Qustion 2.How do doctor's recommendations affect people's opinions of vaccination for different age groups, genders, and races?
+![image](https://user-images.githubusercontent.com/101681195/206810848-13a9cd1e-9758-40a3-a817-5f688e3a4cdb.png)
 
