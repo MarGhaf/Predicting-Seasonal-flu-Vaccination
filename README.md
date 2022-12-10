@@ -55,7 +55,7 @@ To answer this question, some demographic information was categorized on the bas
 ***Fig 2. Individuals' immunization patterns in relation to their attitudes to the effectiveness of immunization and the risks of immunization in settings with or without physician recommendations.***
 
 
->Figure 2 shows that physician recommendations can change the population's perception of vaccination, even in groups who believed vaccination was not effective. Additionally, doctors may change an individual's opinion about the risks of vaccination.
+>In the chart that shows people's opinion regarding the efficacy of vaccination it can be seen that physician recommendations can change the population's perception of vaccination, even in groups who strongly believed vaccination was not effective. Additionally, doctors may change an individual's opinion about the risks of vaccination.
 
 
 ![image](https://user-images.githubusercontent.com/101681195/206820129-c4bcf5b6-9947-405c-8a71-b94cbf405cfc.png)
