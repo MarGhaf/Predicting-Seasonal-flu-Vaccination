@@ -74,9 +74,10 @@ In order to find the best model that can predict values with high accuracy, I ru
 
 It can be seen that most of the models had accuracy levels higher than 70 %, with the best performing being Gradient Boosting and Ada Boost, two powerful ensemble methods. Since Extreme Gradient Boosting (XGBoost) is a more regularized form of Gradient Boosting it was chosen to hyperparameter tuning and make a prediction on the test sets. The model achieved an accuracy rating of 81.83 % in the traning sets and accuracy rating of  84.28% in test sets which is higher amount other models. This model was able to maintain a relatively low false positive rate. The resulting confusion matrix was showed below:
 
-![image](https://user-images.githubusercontent.com/101681195/206865295-77846be4-d5ab-4f0e-9e35-17f1b65969b0.png)
+![image](https://user-images.githubusercontent.com/101681195/206865324-13243870-7123-4801-97f0-c83501011a6a.png)
 
-***Fig 4. Confusion matrix results for XGBoost model on test set.***
+
+***Fig 4. Confusion matrix results for XGBoost model on test set beside feature importances.***
 
 
 >Regarding feature importance, the XGBoost Classifier concluded that people's openinon about efficacy and risk of vaccination were the most important features for predicting vaccination pattern. The doctor recommendation was also a valuable feature that used to explore data. Two other features were also considered most important were age and race.
