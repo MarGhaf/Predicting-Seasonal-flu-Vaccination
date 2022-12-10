@@ -49,7 +49,9 @@ Examination of the dataset revealed that several traits were predictive of indiv
 ## Qustion 2.How do doctor's recommendations affect people's opinions of vaccination for different age groups, genders, and races?
 ![image](https://user-images.githubusercontent.com/101681195/206820057-56f4918f-b27b-4314-9d13-338cab538a00.png)
 
-## Insight
+## Insights
 
+![image](https://user-images.githubusercontent.com/101681195/206820129-c4bcf5b6-9947-405c-8a71-b94cbf405cfc.png)
 
+## Insights
 
