@@ -55,11 +55,11 @@ To answer this question, some demographic information was categorized on the bas
 ***Fig 2. Individuals' immunization patterns in relation to their attitudes to the effectiveness of immunization and the risks of immunization in settings with or without physician recommendations.***
 
 
->Figure 2 showed that physician recommendations can change the population's perception of vaccination, even in groups who believed vaccination was not effective. Additionally, doctors may change an individual's opinion about the risks of vaccination.
+>Figure 2 shows that physician recommendations can change the population's perception of vaccination, even in groups who believed vaccination was not effective. Additionally, doctors may change an individual's opinion about the risks of vaccination.
 
 
 ![image](https://user-images.githubusercontent.com/101681195/206820129-c4bcf5b6-9947-405c-8a71-b94cbf405cfc.png)
 
-***Fig 3. Individuals' immunization patterns in relation to their gender and race groups in settings with or without physician recommendations.***
+***Fig 3. Individuals' immunization patterns in relation to their gender and race groups in settings with or without physician recommendation.***
 
-
+>The gender graph in figure 3 shows that men have more negative attitudes toward vaccination. Although doctor's recommendation influenced them more. In the race plot, black and hispantic have more negative attitudes toward vaccination but they are more welcome to doctors' recomendation
