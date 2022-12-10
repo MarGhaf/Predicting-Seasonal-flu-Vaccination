@@ -13,7 +13,6 @@ Vaccines for H1N1 were first publicly available in the United States in October 
 The model will be a ***binary classifier***, meaning that there are two potential classes (receiving and not receiving vaccines) that can be placed. If the model incorrectly predicts a receiving vaccine's state, I am more concerned with false positives than false negatives. Models that predict that some people are vaccinated while others do not may expose communities to the risk of low vaccination coverage. However, if the model predicted that people would not be vaccinated while they vaccinated, the health system would allocate resources to problems that do not currently exist, and those resources could be used for another segment of society. Therefore, for the purposes of this work, a ***low false-positive*** rate has more value than a low false-negative rate. ***Precision*** and ***recall*** are two of the most basic evaluation metrics available to us. Precision is one of the most basic evaluation metrics to quantify the performance of classifiers when False Positives are more costly than False Negatives. Precision measures how precise the predictions are, while Recall indicates what percentage of the classes we're interested in was actually captured by the model (True Positive Rate). On the other hand, ***accuracy*** is the most common metric for classification that provides a complete picture of the model's overall performance. The ***evaluation metrics*** that used in this study are defined as:
 
 ***Table 1. List of metrics and their definitions***
-
 $$\text{Metric}$$ | $$\text{Formola} $$
 :---------|:-------------
 $$\text{Accuracy}$$ | $$\frac{\text{Number of True Positives + Number of True Negative}}{\text{Total Observation}}$$
@@ -66,7 +65,9 @@ To answer this question, some demographic information was categorized on the bas
 
 ## Model Interpretation
 In order to find the best model that can predict values with high accuracy, I run a Sci-Kit learn pipeline on several models [1].The followin metrics results help to choose the best model to perform hyperparameter tuning, and finally make predictions on the original test set.
-***Table 2. Compering evaluation metrices in different models***
+
+***Table 2. Compering evaluation metrics in different models***
+
 ![image](https://user-images.githubusercontent.com/101681195/206824323-4890c483-f925-47df-874f-80e2657d80a4.png)
 
 
