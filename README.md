@@ -32,7 +32,7 @@ The general research strategy in this project is to use the OSEMN framework on t
  # Exploration
  Explore the data start by inspecting some analytical questions . This step includes below substeps:
 
- - Inspect the data and its properties: Different data types like numerical data, categorical data, ordinal and nominal data require different treatments.
+- Inspect the data and its properties: Different data types like numerical data, categorical data, ordinal and nominal data require different treatments.
 - Compute descriptive statistics: Extract features and test significant variables
 - Data visualization: Identify significant patterns and trends in our data
 
@@ -43,16 +43,18 @@ To answer this question, some demographic information was categorized on the bas
 
  ![image](https://user-images.githubusercontent.com/101681195/206749743-ccd25525-8cdf-4b69-a764-4dff40176de1.png)
 
-## Insight
-Examination of the dataset revealed that several traits were predictive of individual vaccination patterns. For example, gender and marital status did not affect individual vaccination patterns, whereas age, race, education and employment status did.
+Fig 1. The correlation between demographic features and vaccination
+Examination of the dataset revealed that several traits were predictive of individual vaccination patterns. For example, gender and marital status did not affect individual vaccination patterns, whereas age, race, education and employment status did. This plot showed demographic features are correlated with vaccination. 
 
 ## Qustion 2.How do doctor's recommendations affect people's opinions of vaccination for different age groups, genders, and races?
 ![image](https://user-images.githubusercontent.com/101681195/206820558-0dc1401d-0048-43c1-a8a5-95e0a645f791.png)
 
 
-## Insights
+Fig 2. Individuals' immunization patterns in relation to their attitudes to the effectiveness of immunization and the risks of immunization in settings with or without physician recommendations.
+
 
 ![image](https://user-images.githubusercontent.com/101681195/206820129-c4bcf5b6-9947-405c-8a71-b94cbf405cfc.png)
 
-## Insights
+Fig 3. Individuals' immunization patterns in relation to their gender and race groups in settings with or without physician recommendations.
+
 
