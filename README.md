@@ -45,15 +45,17 @@ To answer this question, some demographic information was categorized on the bas
 
  ![image](https://user-images.githubusercontent.com/101681195/206749743-ccd25525-8cdf-4b69-a764-4dff40176de1.png)
 
-***Fig 1. Correlation between demographic features and vaccination***
+***Fig 1. Correlations between demographic features and vaccination***
 
-Examination of the dataset revealed that several traits were predictive of individual vaccination patterns. For example, gender and marital status did not affect individual vaccination patterns, whereas age, race, education and employment status did. This plot showed demographic features are correlated with vaccination. 
+>Examination of the dataset revealed that several traits were predictive of individual vaccination patterns. For example, gender and marital status did not affect individual vaccination patterns, whereas age, race, education and employment status did. This plot showed demographic features are correlated with vaccination.
 
 ## Qustion 2.How do doctor's recommendations affect people's opinions of vaccination for different age groups, genders, and races?
 ![image](https://user-images.githubusercontent.com/101681195/206820558-0dc1401d-0048-43c1-a8a5-95e0a645f791.png)
 
-
 ***Fig 2. Individuals' immunization patterns in relation to their attitudes to the effectiveness of immunization and the risks of immunization in settings with or without physician recommendations.***
+
+
+>Figure 2 showed that physician recommendations can change the population's perception of vaccination, even in groups who believed vaccination was not effective. Additionally, doctors may change an individual's opinion about the risks of vaccination.
 
 
 ![image](https://user-images.githubusercontent.com/101681195/206820129-c4bcf5b6-9947-405c-8a71-b94cbf405cfc.png)
