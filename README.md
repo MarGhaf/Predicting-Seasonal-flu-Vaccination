@@ -49,7 +49,7 @@ To answer this question, some demographic information was categorized on the bas
 >Examination of the dataset revealed that several traits were predictive of individual vaccination patterns. For example, gender and marital status did not affect individual vaccination patterns, whereas age, race, education and employment status did. This plot showed demographic features are correlated with vaccination.
 
 ## Qustion 2.How do doctor's recommendations affect people's opinions of vaccination for different age groups, genders, and races?
-![image](https://user-images.githubusercontent.com/101681195/206820558-0dc1401d-0048-43c1-a8a5-95e0a645f791.png)
+
 
 ***Fig 2. Individuals' immunization patterns in relation to their attitudes to the effectiveness of immunization and the risks of immunization in settings with or without physician recommendations.***
 
@@ -63,7 +63,7 @@ To answer this question, some demographic information was categorized on the bas
 
 >The gender graph in figure 3 shows that men have more negative attitudes toward vaccination. Although doctor's recommendation influenced them more. In the race plot, black and hispantic have more negative attitudes toward vaccination but they are more welcome to doctors' recomendation.
 
-## Model Interpretation
+# Model Interpretation
 In order to find the best model that can predict values with high accuracy, I run a Sci-Kit learn pipeline on several models [1].The followin metrics results help to choose the best model to perform hyperparameter tuning, and finally make predictions on the original test set.
 
 ***Table 2. Compering evaluation metrics in different models and XGBoost***
@@ -82,4 +82,4 @@ It can be seen that most of the models had accuracy levels higher than 70 %, wit
 
 >Regarding feature importance, the XGBoost Classifier concluded that people's openinon about efficacy and risk of vaccination were the most important features for predicting vaccination pattern. The doctor recommendation was also a valuable feature that used to explore data. Two other features were also considered most important were age and race.
 
-Recommendation
+# Recommendation
