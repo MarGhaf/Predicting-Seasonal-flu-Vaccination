@@ -74,8 +74,7 @@ In order to find the best model that can predict values with high accuracy, I ru
 
 It can be seen that most of the models had accuracy levels higher than 70 %, with the best performing being Gradient Boosting and Ada Boost, two powerful ensemble methods. Since Extreme Gradient Boosting (XGBoost) is a more regularized form of Gradient Boosting it was chosen to hyperparameter tuning and make a prediction on the test sets. The model achieved an accuracy rating of 81.83 % in the traning sets and accuracy rating of  84.28% in test sets which is higher amount other models. This model was able to maintain a relatively low false positive rate. The resulting confusion matrix was showed below:
 
-
-
+![image](https://user-images.githubusercontent.com/101681195/206865844-77ca9e65-99d1-4ca7-b8f7-c2eb25b05269.png)
 
 ***Fig 4. Confusion matrix results for XGBoost model on test set beside feature importances.***
 
