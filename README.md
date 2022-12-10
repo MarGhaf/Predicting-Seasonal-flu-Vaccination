@@ -76,3 +76,6 @@ It can be seen that most of the models had accuracy levels higher than 70 %, wit
 
 ![image](https://user-images.githubusercontent.com/101681195/206825103-3fb5b51e-6872-4909-b772-62be68fb6e01.png)
 ***Fig 4. Confusion matrix results for XGBoost model on test set.***
+
+
+>Regarding feature importance, the XGBoost Classifier concluded that people's openinon about efficacy and risk of vaccination were the most important features for predicting vaccination pattern. The doctor recommendation was also a valuable feature that used to explore data. Two other features were also considered most important were age and race.
