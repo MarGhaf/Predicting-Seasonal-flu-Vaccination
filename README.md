@@ -14,7 +14,7 @@ The model will be a ***binary classifier***, meaning that there are two potentia
 
 ***Table 1. List of metrics and their definitions***
 
-$$\text{Metric}$$ | $$\text{Formola} $$ 
+$$\text{Metric}$$ | $$\text{Formola} $$
 :---------|:-------------
 $$\text{Accuracy}$$ | $$\frac{\text{Number of True Positives + Number of True Negative}}{\text{Total Observation}}$$
 $$\text{Precision}$$| $$\frac{\text{Number of True Positives}}{\text{Number of Predicted Positives}}$$
@@ -45,7 +45,7 @@ To answer this question, some demographic information was categorized on the bas
 
  ![image](https://user-images.githubusercontent.com/101681195/206749743-ccd25525-8cdf-4b69-a764-4dff40176de1.png)
 
-***Fig 1. The correlation between demographic features and vaccination***
+***Fig 1. Correlation between demographic features and vaccination***
 
 Examination of the dataset revealed that several traits were predictive of individual vaccination patterns. For example, gender and marital status did not affect individual vaccination patterns, whereas age, race, education and employment status did. This plot showed demographic features are correlated with vaccination. 
 
@@ -58,6 +58,6 @@ Examination of the dataset revealed that several traits were predictive of indiv
 
 ![image](https://user-images.githubusercontent.com/101681195/206820129-c4bcf5b6-9947-405c-8a71-b94cbf405cfc.png)
 
-Fig 3. Individuals' immunization patterns in relation to their gender and race groups in settings with or without physician recommendations.
+***Fig 3. Individuals' immunization patterns in relation to their gender and race groups in settings with or without physician recommendations.***
 
 
