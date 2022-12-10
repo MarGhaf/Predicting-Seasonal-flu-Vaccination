@@ -84,3 +84,6 @@ It can be seen that most of the models had accuracy levels higher than 70 %, wit
 >Regarding feature importance, the XGBoost Classifier concluded that people's openinon about efficacy and risk of vaccination were the most important features for predicting vaccination pattern. The doctor recommendation was also a valuable feature that used to explore data. Two other features were also considered most important were age and race.
 
 # Recommendation
+People's opinions about vaccination are an important predictor of vaccination patterns in societies. Raising public awareness of the benefits of vaccination is key to increasing vaccination coverage. Physician recommendations, on the other hand, can make a big difference in people's attitudes toward vaccination.Below are recommendations that the U.S. Department of Health and Human Services may make to improve vaccination coverage:
+>- Put more effort into groups that are more likely to be unvaccinated, such as men, blacks and Hispanics.
+>- Ask doctors for advice about immunizations during the patients' routine check-up.
