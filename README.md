@@ -65,7 +65,7 @@ To answer this question, some demographic information was categorized on the bas
 >The gender graph in figure 3 shows that men have more negative attitudes toward vaccination. Although doctor's recommendation influenced them more. In the race plot, black and hispantic have more negative attitudes toward vaccination but they are more welcome to doctors' recomendation.
 
 # Model Interpretation
-In order to find the best model that can predict values with high accuracy, I run a Sci-Kit learn pipeline on several models [1].The followin metrics results help to choose the best model to perform hyperparameter tuning, and finally make predictions on the original test set.
+In order to find the best model that can predict values with high accuracy, I run a Sci-Kit learn pipeline on several models [1].The following metrics results help to choose the best model to perform hyperparameter tuning, and finally make predictions on the original test set.
 
 ***Table 2. Compering evaluation metrics in different models and XGBoost***
 
