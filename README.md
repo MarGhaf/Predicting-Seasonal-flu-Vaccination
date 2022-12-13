@@ -1,7 +1,9 @@
 # Predict-Seasonal-Flu-Vaccine
 
 Maryam Ghaffari
-![image](https://user-images.githubusercontent.com/101681195/206234077-c82c5a0e-abd4-4676-bb6d-0858ad5ee13c.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/101681195/206234077-c82c5a0e-abd4-4676-bb6d-0858ad5ee13c.png">
+</p>
 
 # Introduction
 The COVID-19 pandemic is a global outbreak of a new coronavirus that is very different from current and recently circulating human seasonal influenza viruses. Vaccines are a critical public health measure to fight infectious diseases like COVID-19. They provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases through "herd immunity." As the world struggles to vaccinate the global population against COVID-19, understanding how people’s backgrounds, opinions, and health behaviors are related to their personal vaccination patterns can provide guidance for future public health efforts.
@@ -19,7 +21,7 @@ $$\text{Accuracy}$$ | $$\frac{\text{Number of True Positives + Number of True Ne
 $$\text{Precision}$$| $$\frac{\text{Number of True Positives}}{\text{Number of Predicted Positives}}$$
 $$\text{Recall}$$ | $$\frac{\text{Number of True Positives}}{\text{Number of Actual Total Positives}}$$
 $$\text{F1}$$ | $$2\frac{\text{Precision x Recall}}{\text{Precision + Recall}}$$
-                                         
+                                 
 
 # Methodology
 The general research strategy in this project is to use the OSEMN framework on the King County House Sales dataset. The process includes the below steps:
