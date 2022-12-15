@@ -24,7 +24,7 @@ $$\text{F1}$$ | $$2\frac{\text{Precision x Recall}}{\text{Precision + Recall}}$$
                                  
 
 # Methodology
-The general research strategy in this project is to use the OSEMN framework on the King County House Sales dataset. The process includes the below steps:
+The general research strategy in this project is to use the OSEMN framework on the survey dataset. The process includes the below steps:
 
  - Obtain data: The very first step of the project is to obtain data. We obtain the data from We will look at data from the National 2009 H1N1 Flu Survey collected to monitor vaccination rates during that campaign. Obtaining data starts with importing needed libraries
  - Scrub:   The second step is to make data operational which is dealing with messy data. This step includes dealing with missing values, inconsistent formatting, malformed records, or nonsensical outliers.
