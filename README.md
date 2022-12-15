@@ -26,22 +26,22 @@ $$\text{F1}$$ | $$2\frac{\text{Precision x Recall}}{\text{Precision + Recall}}$$
 # Methodology
 The general research strategy in this project is to use the OSEMN framework on the survey dataset. The process includes the below steps:
 
- - Obtain data: The very first step of the project is to obtain data. We obtain the data from We will look at data from the National 2009 H1N1 Flu Survey collected to monitor vaccination rates during that campaign. Obtaining data starts with importing needed libraries
+ - Obtain data: The very first step of the project is to obtain data. We obtain the data from the National 2009 H1N1 Flu Survey collected to monitor vaccination rates during that campaign. Obtaining data starts with importing needed libraries.
  - Scrub:   The second step is to make data operational which is dealing with messy data. This step includes dealing with missing values, inconsistent formatting, malformed records, or nonsensical outliers.
- - Explore: This step will help stakeholders to get accurate, actionable insights from our data analytic
- - Model: In this step we use regression and predictions for forecasting future values, and classification to identify, and clustering to group values.
+ - Explore: This step will help stakeholders to get accurate, actionable insights from our data analytic.
+ - Model: In this step we use classification to identify values.
  - iNterpret: The most crucial step of a data science project is interpreting models and data. In this step, the results and insights represent for non-technical audiance. 
  
  # Exploration
- Explore the data start by inspecting some analytical questions . This step includes below substeps:
+ Explore the data start by inspecting some analytical questions. This step includes below substeps:
 
 - Inspect the data and its properties: Different data types like numerical data, categorical data, ordinal and nominal data require different treatments.
-- Compute descriptive statistics: Extract features and test significant variables
-- Data visualization: Identify significant patterns and trends in our data
+- Compute descriptive statistics: Extract features and test significant variables.
+- Data visualization: Identify significant patterns and trends in the data.
 
-The below questions might help better to have insight into our database
+The below questions might help to have better insight into the database.
 ## Question 1. What is the relationship between demographic information and receiving vaccine?
-To answer this question, some demographic information was categorized on the basis of being vaccinated or not. Then the results were plotted.
+To answer this question, some demographic information were categorized on the basis of being vaccinated or not. Then the results were plotted.
 
 
  ![image](https://user-images.githubusercontent.com/101681195/206749743-ccd25525-8cdf-4b69-a764-4dff40176de1.png)
@@ -50,7 +50,9 @@ To answer this question, some demographic information was categorized on the bas
 
 >Examination of the dataset revealed that several traits were predictive of individual vaccination patterns. For example, gender and marital status did not affect individual vaccination patterns, whereas age, race, education and employment status did. This plot showed demographic features are correlated with vaccination.
 
-## Qustion 2.How do doctor's recommendations affect people's opinions of vaccination for different age groups, genders, and races?
+## Qustion 2.How might doctor's recommendations change people's attitudes towards vaccination?
+
+
 ![image](https://user-images.githubusercontent.com/101681195/206877316-97693d95-240a-4f47-a625-8d766bea9f9e.png)
 
 
