@@ -97,7 +97,7 @@ People's opinions about vaccination are an important predictor of vaccination pa
 
 
 ```
-├── Code : student.ipynb includ modeling
+├── Code : final_student.ipynb includ modeling
 ├── Data : Data used for modeling, includes training_set_features.csv and training_set_labels.csv files
 ├── Images : Images used in Phase 3 Project Presentation.pdf and README
 ├── Phase 3 Project Presentation.pdf : Presentation for stakeholders
