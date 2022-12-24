@@ -78,21 +78,18 @@ It can be seen that most of the models had accuracy levels higher than 70 %, wit
 According to the feature importance results, the role of people's mindset in deciding whether to vaccinate or not is likely to be more specific. A doctor's recommendation is also an important feature. By examining the relationship between people's opinions and physician recommendations, the role of physician recommendations can be clarified. 
 
 
-
-![image](https://user-images.githubusercontent.com/101681195/206877316-97693d95-240a-4f47-a625-8d766bea9f9e.png)
-
-
-***Fig 2. Individuals' immunization patterns in relation to their attitudes to the effectiveness of immunization and the risks of immunization in settings with or without physician recommendations.***
+![image](https://user-images.githubusercontent.com/101681195/209416775-aea2df56-3d99-4a91-832f-2e6d9b3c09a2.png)
 
 
->In the chart that shows people's opinion regarding the efficacy of vaccination it can be seen that physician recommendations can change the population's perception of vaccination, even in groups who strongly believed vaccination was not effective. Additionally, doctors may change an individual's opinion about the risks of vaccination.
+
+***Fig 2. Individuals' immunization patterns in relation to their attitudes to risk of getting sick with seasonal flu without vaccine,
+the effectiveness of immunization and worriness of getting sick from taking seasonal flu vaccine the risks of immunization in settings with or without physician recommendations.***
 
 
-![image](https://user-images.githubusercontent.com/101681195/206820129-c4bcf5b6-9947-405c-8a71-b94cbf405cfc.png)
+>In the chart that shows people's opinion regarding the efficacy of vaccination it can be seen that physician recommendations can change the population's perception of vaccination, even in groups who strongly believed vaccination was not effective. Additionally, doctors may change an individual's opinion about the risks of vaccination. Doctors' recommendation also can enhance vaccination even in groups that have very worry about getting sick from taking seasonal flu vaccine. 
 
-***Fig 3. Individuals' immunization patterns in relation to their gender and race groups in settings with or without physician recommendation.***
 
->The gender graph in figure 3 shows that men have more negative attitudes toward vaccination. Although doctor's recommendation influenced them more. In the race plot, black and hispantic have more negative attitudes toward vaccination but they are more welcome to doctors' recomendation.
+
 
 # Recommendation
 People's opinions about vaccination are an important predictor of vaccination patterns in societies. Raising public awareness of the benefits of vaccination is key to increasing vaccination coverage. Physician recommendations, on the other hand, can make a big difference in people's attitudes toward vaccination. Below are recommendations that the U.S. Department of Health and Human Services may make to improve vaccination coverage:
