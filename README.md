@@ -50,23 +50,6 @@ To answer this question, some demographic information were categorized on the ba
 
 >Examination of the dataset revealed that several traits were predictive of individual vaccination patterns. For example, gender and marital status did not affect individual vaccination patterns, whereas age, race, education and employment status did. This plot showed demographic features are correlated with vaccination.
 
-## Qustion 2.How might doctor's recommendations change people's attitudes towards vaccination?
-
-
-![image](https://user-images.githubusercontent.com/101681195/206877316-97693d95-240a-4f47-a625-8d766bea9f9e.png)
-
-
-***Fig 2. Individuals' immunization patterns in relation to their attitudes to the effectiveness of immunization and the risks of immunization in settings with or without physician recommendations.***
-
-
->In the chart that shows people's opinion regarding the efficacy of vaccination it can be seen that physician recommendations can change the population's perception of vaccination, even in groups who strongly believed vaccination was not effective. Additionally, doctors may change an individual's opinion about the risks of vaccination.
-
-
-![image](https://user-images.githubusercontent.com/101681195/206820129-c4bcf5b6-9947-405c-8a71-b94cbf405cfc.png)
-
-***Fig 3. Individuals' immunization patterns in relation to their gender and race groups in settings with or without physician recommendation.***
-
->The gender graph in figure 3 shows that men have more negative attitudes toward vaccination. Although doctor's recommendation influenced them more. In the race plot, black and hispantic have more negative attitudes toward vaccination but they are more welcome to doctors' recomendation.
 
 # Model Interpretation
 In order to find the best model that can predict values with high accuracy, I run a Sci-Kit learn pipeline on several models [1].The following metrics results help to choose the best model to perform hyperparameter tuning, and finally make predictions on the original test set.
@@ -89,6 +72,27 @@ It can be seen that most of the models had accuracy levels higher than 70 %, wit
 
 
 >Regarding feature importance, the XGBoost Classifier concluded that people's openinon about efficacy and risk of vaccination were the most important features for predicting vaccination pattern. The doctor recommendation was also a valuable feature that used to explore data. Two other features were also considered most important were age and race.
+
+## How might doctor's recommendations change people's attitudes towards vaccination?
+
+According to the feature importance results, the role of people's mindset in deciding whether to vaccinate or not is likely to be more specific. A doctor's recommendation is also an important feature. By examining the relationship between people's opinions and physician recommendations, the role of physician recommendations can be clarified. 
+
+
+
+![image](https://user-images.githubusercontent.com/101681195/206877316-97693d95-240a-4f47-a625-8d766bea9f9e.png)
+
+
+***Fig 2. Individuals' immunization patterns in relation to their attitudes to the effectiveness of immunization and the risks of immunization in settings with or without physician recommendations.***
+
+
+>In the chart that shows people's opinion regarding the efficacy of vaccination it can be seen that physician recommendations can change the population's perception of vaccination, even in groups who strongly believed vaccination was not effective. Additionally, doctors may change an individual's opinion about the risks of vaccination.
+
+
+![image](https://user-images.githubusercontent.com/101681195/206820129-c4bcf5b6-9947-405c-8a71-b94cbf405cfc.png)
+
+***Fig 3. Individuals' immunization patterns in relation to their gender and race groups in settings with or without physician recommendation.***
+
+>The gender graph in figure 3 shows that men have more negative attitudes toward vaccination. Although doctor's recommendation influenced them more. In the race plot, black and hispantic have more negative attitudes toward vaccination but they are more welcome to doctors' recomendation.
 
 # Recommendation
 People's opinions about vaccination are an important predictor of vaccination patterns in societies. Raising public awareness of the benefits of vaccination is key to increasing vaccination coverage. Physician recommendations, on the other hand, can make a big difference in people's attitudes toward vaccination. Below are recommendations that the U.S. Department of Health and Human Services may make to improve vaccination coverage:
