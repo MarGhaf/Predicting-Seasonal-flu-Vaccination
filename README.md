@@ -93,8 +93,17 @@ the effectiveness of immunization and worriness of getting sick from taking seas
 
 # Recommendation
 People's opinions about vaccination are an important predictor of vaccination patterns in societies. Raising public awareness of the benefits of vaccination is key to increasing vaccination coverage. Physician recommendations, on the other hand, can make a big difference in people's attitudes toward vaccination. Below are recommendations that the U.S. Department of Health and Human Services may make to improve vaccination coverage:
->- Put more effort into groups that are more likely to be unvaccinated, such as men, blacks and Hispanics.
+>- Various factors can influence people's attitudes towards vaccination.
+>- People's opinions about vaccination are an important predictor of vaccination patterns in societies.
 >- Ask doctors for advice about immunizations during the patients' routine check-up.
+ 
+ # Feture Work
+ 
+>- Collect More Data: Covering several different topics in collecting data would improve the predictability of models.
+>-Increase Model Complexity: Increasing the target variables to include other vaccinations may improve the predictive performances of the models.
+ 
+
+
 
 
   ## Repository Structure
