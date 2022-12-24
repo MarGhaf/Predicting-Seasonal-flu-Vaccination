@@ -72,6 +72,7 @@ To answer this question, some demographic information were categorized on the ba
 In order to find the best model that can predict values with high accuracy, I run a Sci-Kit learn pipeline on several models [1].The following metrics results help to choose the best model to perform hyperparameter tuning, and finally make predictions on the original test set.
 
 ***Table 2. Compering evaluation metrics in different models and XGBoost***
+![image](https://user-images.githubusercontent.com/101681195/209416293-06e48532-80de-49fa-9e5d-272ce0c5ab59.png)
 
 
 
