@@ -97,10 +97,10 @@ People's opinions about vaccination are an important predictor of vaccination pa
 >- People's opinions about vaccination are an important predictor of vaccination patterns in societies.
 >- Ask doctors for advice about immunizations during the patients' routine check-up.
  
- # Feture Work
+ # Future Work
  
 >- Collect More Data: Covering several different topics in collecting data would improve the predictability of models.
->-Increase Model Complexity: Increasing the target variables to include other vaccinations may improve the predictive performances of the models.
+>- Increase Model Complexity: Increasing the target variables to include other vaccinations may improve the predictive performances of the models.
  
 
 
