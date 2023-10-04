@@ -1,4 +1,4 @@
-# predicting seasonal flu vaccination
+# Predicting seasonal flu vaccination
 
 Maryam Ghaffari
 <p align="center">
